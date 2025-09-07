@@ -4,9 +4,8 @@ Proyecto: Sistema de reservas de cine en **C#**. Se manejarán reservas con list
 
 ---
 
-## 1. Requisitos de la primera versión
-
-- [ ] Hacer una reserva.
+## 1. Requisitos para el proyecto
+- [  ] Hacer una reserva.
 - [  ] Mostrar la lista de reservas.
 - [  ] Cancelar una reserva (se guarda en la pila de cancelaciones).
 - [  ] Deshacer última cancelación.
@@ -86,7 +85,7 @@ _No aplicaremos aún: selección visual de butacas, no usaremos un motor de base
 
 ## 7. División de roles
 
-### Jherson – Lógica de negocio
+### Jherson/ Kevin Fuertes/ Kevin Cortez – Lógica de programa
 - Crear **Models** (`Cliente`, `Funcion`, `Reserva`).
 - Crear **Interfaces**.
 - Implementar **Services** usando `List<>`, `Queue<>`, `Stack<>`.
