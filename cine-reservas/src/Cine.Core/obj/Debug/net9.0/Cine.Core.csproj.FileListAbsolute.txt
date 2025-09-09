@@ -1,0 +1,12 @@
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\bin\Debug\net9.0\Cine.Core.deps.json
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\bin\Debug\net9.0\Cine.Core.dll
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\bin\Debug\net9.0\Cine.Core.pdb
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\obj\Debug\net9.0\Cine.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\obj\Debug\net9.0\Cine.Core.AssemblyInfoInputs.cache
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\obj\Debug\net9.0\Cine.Core.AssemblyInfo.cs
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\obj\Debug\net9.0\Cine.Core.csproj.CoreCompileInputs.cache
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\obj\Debug\net9.0\Cine.Core.sourcelink.json
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\obj\Debug\net9.0\Cine.Core.dll
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\obj\Debug\net9.0\refint\Cine.Core.dll
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\obj\Debug\net9.0\Cine.Core.pdb
+C:\Users\jhefe\Proyecto-Sistema-Reservas-Entradas-Cine\cine-reservas\src\Cine.Core\obj\Debug\net9.0\ref\Cine.Core.dll
