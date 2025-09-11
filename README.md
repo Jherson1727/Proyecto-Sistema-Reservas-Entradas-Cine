@@ -122,7 +122,7 @@ dotnet run
 
 ---
 
-## 🖥️ Experiencia en consola
+## Experiencia en consola
 
 **Menú principal**  
 1. Hacer reserva → pide cliente (o usa el primero en cola), permite elegir **función** y **asiento** con un **mapa** (A–J x 1–14).  
