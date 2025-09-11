@@ -6,7 +6,6 @@ namespace Cine.Core.Interfaces
     {
         void Push(Reserva reserva);
         Reserva? Pop();
-        Reserva? Peek();
-        int Conteo();
+        int Count { get; }   
     }
 }
